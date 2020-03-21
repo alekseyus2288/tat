@@ -5,4 +5,4 @@ txt_clip =  txt_clip.set_pos('center').set_duration(12 )
 video = CompositeVideoClip([clip, txt_clip])
 video.write_videofile("123")
 
-
+https://www.youtube.com/watch?v=4utpxhSJ20M
